@@ -1,0 +1,8 @@
+a:hover {
+    background-color: lightgreen;
+}
+
+
+a:visited {
+    background-color: yellowgreen;
+}
